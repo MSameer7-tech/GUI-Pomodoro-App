@@ -11,9 +11,17 @@ A clean, distraction-free desktop Pomodoro timer built with Python and Tkinter. 
 
 <br/>
 
-<img src="assets/screenshot.png" alt="Pomodoro Timer App Screenshot" width="500" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+<img src="assets/Python.gif" alt="Pomodoro Timer App Demo" width="540" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 
 </div>
+
+---
+
+## 🎬 Demo & Visuals
+
+| Animated Demo | High-Resolution Interface |
+| :---: | :---: |
+| <img src="assets/Python.gif" width="340" alt="Demo Animation" /><br/><sub>Interactive Demo Preview</sub> | <img src="assets/screenshot.png" width="340" alt="App Screenshot" /><br/><sub>Clean Minimalist UI</sub> |
 
 ---
 
@@ -104,10 +112,12 @@ LONG_BREAK_MIN = 20    # Long break duration in minutes
 ```text
 GUI-Pomodoro-App/
 ├── assets/
-│   └── screenshot.png     # Application screenshot
+│   ├── Python.gif         # Animated demo recording of the app
+│   └── screenshot.png     # Static UI screenshot
 ├── main.py                # Main application logic & Tkinter UI
 ├── tomato.png             # Tomato graphic for timer canvas
 ├── .gitignore             # Git ignore rules
+├── LICENSE                # MIT License
 └── README.md              # Project documentation
 ```
 

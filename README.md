@@ -17,14 +17,6 @@ A clean, distraction-free desktop Pomodoro timer built with Python and Tkinter. 
 
 ---
 
-## 🎬 Demo & Visuals
-
-| Animated Demo | High-Resolution Interface |
-| :---: | :---: |
-| <img src="assets/Python.gif" width="340" alt="Demo Animation" /><br/><sub>Interactive Demo Preview</sub> | <img src="assets/screenshot.png" width="340" alt="App Screenshot" /><br/><sub>Clean Minimalist UI</sub> |
-
----
-
 ## 📖 About the Project
 
 The **Pomodoro Technique** is a proven time-management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break down work into intervals, traditionally **25 minutes** in length, separated by **short breaks (5 minutes)**. After **4 work sessions**, a **longer break (20 minutes)** is taken.
